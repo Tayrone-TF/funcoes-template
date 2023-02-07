@@ -107,6 +107,7 @@ console.log(verificarCredenciais('Tayrone.Teixeira', 'Tayrone!@#123'))
 console.log(verificarCredenciais('Tayrone!@#123', 'Tayrone.Teixeira'))
 console.log(verificarCredenciais('Tayrone.Teixeira', 'Tayrone!@#'))
 console.log(verificarCredenciais('Tayrone', 'Tayrone!@#123'))
+console.log(verificarCredenciais('Tayre', 'Tayrone123'))
 
 
 
